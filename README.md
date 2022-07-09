@@ -1,10 +1,8 @@
-## Hi, I am Khuong Hung! Great to see you here! 👋🏻  
-
-<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> 
+## Hi, I am Khuong Hung! Great to see you here! 👋🏻  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> 
 
 
 <p align='center'>
-    <img alt='GIF' src='https://cdn.dribbble.com/users/720825/screenshots/3253310/media/b0b58ffa7bd7542a0445f0bbaffb2c9a.gif?raw=true' width='600' height='300' />
+    <img alt='GIF' src='https://cdn.dribbble.com/users/720825/screenshots/3253310/media/b0b58ffa7bd7542a0445f0bbaffb2c9a.gif?raw=true'/>
 </p>
 
 
