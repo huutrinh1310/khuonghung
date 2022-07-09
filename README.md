@@ -1,11 +1,5 @@
 ## Hi, I am Khuong Hung! Great to see you here! 👋🏻  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> 
 
-
-<p align='center'>
-    <img alt='GIF' src='https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif?raw=true' width='600' height='600'/>
-</p>
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+engineer;Back+End+Developer;%20Open%20Source%20|%20Web+Development;%20Always%20learning%20new%20things&center=true&width=580&height=45"></a>
 <a>
